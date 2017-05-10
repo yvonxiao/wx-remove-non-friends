@@ -1,0 +1,1 @@
+const {Wechaty,Contact} = require('wechaty');
